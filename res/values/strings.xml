@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, RotaryDialer!</string>
+    <string name="app_name">Rotary Dialer</string>
+</resources>
