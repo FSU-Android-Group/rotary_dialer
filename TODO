@@ -1,0 +1,7 @@
++ Fix sounds, such that they play consistently and stop when supposed to
++ Improve touch tracking
++ Improve animation
++ Add "cheat mode" such that the number initially pressed is the dialed number, rather than based on the traditional degrees rotated.
++ Add mute option
++ Implement call features, and set up intent filter to 'replace' original dialer if desired.
++ Add save to contacts button somewhere
